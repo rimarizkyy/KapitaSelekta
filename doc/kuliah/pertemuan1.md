@@ -3,7 +3,7 @@
 **ADD SSH KEY, BUAT REPOSITORY, DAN ADD NEW FILE MELALUI GITBASH**
 
  <p align="center">
-  <img src="../../img/kapsel.JPG" width="400px">
+  <img src="../../img/kapsel.jpg" width="400px">
 </p>
 
 1. **LATAR BELAKANG MASALAH**
